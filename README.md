@@ -53,6 +53,7 @@ This repository is a compendium of C articles, books, libraries, source code, an
 * [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps. 
 http://redis.io
 * [SQLite](http://www.sqlite.org/src/doc/trunk/README.md) - SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed SQL database engine in the world. The source code for SQLite is in the public domain.
+
 ## Tools
 ### Compilers
 * [clang](http://clang.llvm.org/) - The goal of the Clang project is to create a new C, C++, Objective C and Objective C++ front-end for the LLVM compiler.
